@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: rahul
+Build-Jdk: 15
+Implementation-Title: EventOrganisation
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.demo
+Implementation-URL: https://spring.io/projects/spring-boot/EventOrganisa
+ tion
+Created-By: Maven Integration for Eclipse
+
